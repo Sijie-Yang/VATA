@@ -1,1 +1,1 @@
-# VATA
+# Thermal Affordance
